@@ -65,7 +65,3 @@ The hidden flag was successfully extracted:
 - **Metadata Hints:** Always check metadata fields like `Author`, `Comment`, or `Description` for possible passphrases.
 - **Steghide Usage:** If an empty passphrase fails, try known keywords from the file’s properties.
 - **Alternative Tools:** If `steghide` doesn’t work, tools like `binwalk`, `stegsolve`, or `foremost` could be used.
-
----
-
-**Tags:** #Steganography #CTF #Forensics #Steghide #ExifTool #Metadata
