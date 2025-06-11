@@ -13,7 +13,7 @@ First, I examined the file using `exiftool` to check for any metadata clues:
 └─$ exiftool Incognito.jpg
 ```
 
-![Alt text](img/3.png)
+![Alt text](img/1.png)
 
 **Key Observations:**
 
