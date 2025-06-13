@@ -33,7 +33,7 @@ Located the original tweet containing this video:
 After examining the tweet's comments, found the flag posted by the challenge organizers:
 
 ```
-Securinets{P1k4chU_j01n5_th3_pr0t3st}
+Securinets{f00tpr1ntz_0n_th3_w3b}
 ```
 
 ![Alt text](img/3.png)
@@ -50,7 +50,7 @@ Securinets{P1k4chU_j01n5_th3_pr0t3st}
 **Flag:**
 
 ```
-Securinets{P1k4chU_j01n5_th3_pr0t3st}
+Securinets{f00tpr1ntz_0n_th3_w3b}
 ```
 
 **Source Tweet:**  
